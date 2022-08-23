@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcLZyyrTtzlAPrgZUJuPG6bqSwVQgZ0G2BUFtqiNLRb/aDfdTzlDggy3SbJ2CfEIJp3RjrkfMwF+mn3NcxYcQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Billy Isogol\\Desktop\\C#\\awsStepFunction\\ImageRecognition\\ImageRecognition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Billy Isogol\\.nuget\\packages\\awssdk.core\\3.7.12.22\\awssdk.core.3.7.12.22.nupkg.sha512",
+    "C:\\Users\\Billy Isogol\\.nuget\\packages\\awssdk.rekognition\\3.7.10\\awssdk.rekognition.3.7.10.nupkg.sha512",
+    "C:\\Users\\Billy Isogol\\.nuget\\packages\\awssdk.s3\\3.7.9.40\\awssdk.s3.3.7.9.40.nupkg.sha512"
+  ],
+  "logs": []
+}
